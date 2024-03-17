@@ -7,4 +7,4 @@
     -> the folder contains a privacy policy and a landing page for the app as well.
 
 
-#### This repo ddoesn't contain the app source code, instead only public information served by github pages.
+#### This repo doesn't contain the app source code, instead only public information served by github pages.
